@@ -1,0 +1,2 @@
+A diferenca eh que ao somar a + b, os valores sao do tipo inteiro, ou seja, o valor de b sera adicionado ao valor de a, como resultado 1 + 2 = 3. Ja ao somar b + c, que sao
+do tipo str, os valores serao concatenados, ou seja, c + d = "12"

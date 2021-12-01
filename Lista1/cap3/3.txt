@@ -1,0 +1,3 @@
+Para que os resultados sejam semelhantes eh necessario converter as variaveis para um mesmo tipo de dado, por exemplo, para que a + b seja igual a "12", como em c + d,
+eh necessario converter a e b para str (str(a); str(b)). O mesmo se aplica para o caminho inverso, ou seja para que c + d seja igual a 3, eh necessario converter c e d
+para inteiro (int(c); int(d))

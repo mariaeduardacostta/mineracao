@@ -1,0 +1,6 @@
+a) Inteiro - int
+b) Booleano - bool
+c) Float - float
+d) Float - float
+e) String - str
+f) String - str

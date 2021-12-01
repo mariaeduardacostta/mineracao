@@ -1,0 +1,11 @@
+a)Sim
+b)Sim
+c)Sim
+d)Sim
+e)Sim
+f)Sim
+g)Sim
+h)Nao, pois a palavra "int" eh reservada para o tipo de dado Inteiro
+i)Sim
+j)Sim
+k)Nao, pois a palavra "class" eh reservada para a declaracao de classes
